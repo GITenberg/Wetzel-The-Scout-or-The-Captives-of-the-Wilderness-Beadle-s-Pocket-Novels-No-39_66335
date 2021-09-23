@@ -1,11 +1,16 @@
 _repo: Wetzel-The-Scout-or-The-Captives-of-the-Wilderness-Beadle-s-Pocket-Novels-No-39_66335
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66335-h/images/cover.jpg
 creator:
   author:
     agent_name: Belknap, Boynton
     gutenberg_agent_id: '53753'
     url: http://www.gutenberg.org/2009/agents/53753
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66335#Wetzel-The-Scout-or-The-Captives-of-the-Wilderness-Beadle-s-Pocket-Novels-No-39
 gutenberg_issued: '2021-09-18'
 identifiers:
   gutenberg: '66335'
